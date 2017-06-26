@@ -1,3 +1,3 @@
 # Leafletjs
 
-Making a world map using leafletjs
+Making a world map using leafletjs with Google layers added
